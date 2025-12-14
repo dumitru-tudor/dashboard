@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dashboard/static/css/main.0d16faeb.css",
+    "main.js": "/dashboard/static/js/main.44c84976.js",
+    "static/js/453.66491b08.chunk.js": "/dashboard/static/js/453.66491b08.chunk.js",
+    "static/media/guvern_logo.png": "/dashboard/static/media/guvern_logo.8a58c9f93ba46d9b64b1.png",
+    "static/media/ue_logo.png": "/dashboard/static/media/ue_logo.4fc1edd37763e6916803.png",
+    "index.html": "/dashboard/index.html",
+    "main.0d16faeb.css.map": "/dashboard/static/css/main.0d16faeb.css.map",
+    "main.44c84976.js.map": "/dashboard/static/js/main.44c84976.js.map",
+    "453.66491b08.chunk.js.map": "/dashboard/static/js/453.66491b08.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d16faeb.css",
+    "static/js/main.44c84976.js"
+  ]
+}
